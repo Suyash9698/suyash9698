@@ -1,6 +1,6 @@
 <!-- Center-align text -->
 <p align="center">
-  <b>Hi 👋, I'm Bhanuj Gandhi</b>
+  <b>Hi 👋, I'm Suyash Khare</b>
 </p>
 
 <!-- About Me -->
@@ -8,7 +8,20 @@
   I'm a software developer passionate about coding and building cool stuff. Currently, I'm exploring the world of machine learning and AI.
 </p>
 
-<!-- Languages and Tools Icons with Links -->
+<b>Languages and Tools Icons: </b>
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
+</a>
+
+
+
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
+</a>
+
 <p align="center">
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure">
