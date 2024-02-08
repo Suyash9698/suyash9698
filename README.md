@@ -8,7 +8,7 @@
   I'm a software developer passionate about coding and building cool stuff. Currently, I'm exploring the world of machine learning and AI.
 </p>
 
-<!-- Languages and Tools Icons -->
+<b>Languages and Tools:/b>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure">
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash">
