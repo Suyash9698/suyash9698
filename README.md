@@ -1,11 +1,16 @@
-# Hi there, I'm Suyash!
+<!-- Center-align text -->
+<p align="center">
+  <b>Hi 👋, I'm Suyash Khare</b>
+</p>
 
-I'm a software developer passionate about coding and building cool stuff. Currently, I'm exploring the world of machine learning and AI.
+<!-- About Me -->
+<p align="center">
+  I'm a software developer passionate about coding and building cool stuff. Currently, I'm exploring the world of machine learning and AI.
+</p>
 
-- 🌱 I’m currently learning TensorFlow and PyTorch.
-- 👯 I’m looking to collaborate on interesting open-source projects.
-- 💬 Ask me about web development, Python, or anything tech-related.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suyash9698/) or [Twitter](https://twitter.com/suyash9698).
-
-Happy coding! 😊
+<!-- Languages and Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <!-- Add more language icons here -->
+</p>
