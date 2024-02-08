@@ -70,23 +70,11 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch">
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ">
-  </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native">
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn">
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn">
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
