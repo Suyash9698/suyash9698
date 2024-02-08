@@ -9,6 +9,8 @@
 </p>
 
 <b>Languages and Tools Icons: </b>
+
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
 </a>
@@ -20,7 +22,6 @@
 
 
 
-<p align="center">
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure">
   </a>
