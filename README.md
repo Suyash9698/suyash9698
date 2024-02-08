@@ -15,6 +15,10 @@
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
 </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+</a>
+
 
 
 
