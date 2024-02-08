@@ -34,8 +34,8 @@
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="NGINX">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas">
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL">
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman">
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman">
+
   <img src="https://img.icons8.com/color/48/000000/pug.png" alt="Pug">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch">
