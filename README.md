@@ -71,7 +71,7 @@
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   </a>
   <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch">
+    <img src="[https://img.icons8.com/color/48/000000/pytorch.png](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2019/01/pytorch-logo.png)" alt="PyTorch">
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ">
