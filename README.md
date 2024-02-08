@@ -24,8 +24,6 @@
   <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest">
-  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="Kafka">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
@@ -39,7 +37,6 @@
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass">
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn">
   <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn">
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
 </p>
