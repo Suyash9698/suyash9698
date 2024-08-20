@@ -29,5 +29,5 @@
        <h5>Java, Spring Framework, and MVC</h5>
       <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="Java" title="Java"/></code>
       <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184243596-873df9b6-3b9e-4e38-b8b2-7c7e8e0d73e3.png" alt="Spring" title="Spring"/></code>
-      <code><img width="50" src="https://user-images.githubusercontent.com/25181517/184243832-4b67b9ff-1ff5-4fb9-b46c-1d4787a3c90a.png" alt="Spring MVC" title="Spring MVC"/></code>
+      <code><img width="50" src="https://images.app.goo.gl/Vtc6WeSKKmjrhZLH6" alt="Spring MVC" title="Spring MVC"/></code>
 </div>
