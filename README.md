@@ -26,7 +26,7 @@
 	<code><img width="50" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras"/></code>
 	</div>
  
-	</div>
+	
 
 
   
