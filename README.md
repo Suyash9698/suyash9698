@@ -33,14 +33,5 @@
       	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="SpringBoot" title="SpringBoot"/></code>
 		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code>
 	
-	 <h5>Cloud</h5>
-	<div style="display:flex; justify-content: center;">
-		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
-      	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" title="Microsoft Azure"/></code>
-	</div>
-
-	<h5>AI</h5>
-	<div style="display:flex; justify-content: center;">
-		<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow" title="Tensorflow"/></code>
-	</div>
+	 
 </div>
